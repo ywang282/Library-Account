@@ -1,0 +1,510 @@
+#easy-search-panel-tabs select {
+	color: #000;
+}
+
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+.panel-default {
+	border-color: #bbb;
+}
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+hr {
+	border-top: 1px solid #bbb;
+}
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+	border: 1px solid #bbb;
+	border-bottom: 1px solid transparent;
+}
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+.nav-tabs>li>a:hover {
+	border-bottom: 1px solid #bbb;
+	border: 1px solid #transparent;
+}
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+/*.nav-tabs {
+border-bottom: 1px solid #bbb;
+}*/
+
+.navbar-default .navbar-nav > .close > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus, .navbar-default .navbar-nav > li > a {
+	color:#000;
+}
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+.btn-primary {
+color: #1F3762;
+background-color:#efefef;
+border-color: none
+font-weight: bold;;
+text-transform: uppercase;
+}
+
+.btn-primary:hover{
+  background-color:#428BCA;
+  color: #fff;
+} 
+
+
+/* darking dynamic buttons for accessibility */
+.light-area .btn-primary {
+	color:#fff;
+	background-color: #2d4f8e;
+}
+
+.light-area .btn-primary:hover{
+  background-color:#428BCA;
+  color: #fff;
+} 
+
+/* OVERRIDE THE BOOTSTRAP DEFAULT */
+h5, .h5 {
+font-size: 15px;
+font-weight: 800;
+font-weight: bold;
+}
+
+
+/* HOURS AND LOCATIONS */
+#library-location-panel {
+	border-top: 1px solid #bbb;
+	border-bottom: 1px solid #bbb;
+}
+
+#library-hours-filter-box{
+	padding: 10px;
+	display: block;
+	background-color: #f5f5f5;
+	margin-bottom: -10px;
+	background-color: #f5f5f5;
+	border: 1px solid #bbb;
+border-bottom: 1px solid transparent;
+border-top-left-radius: 3px;
+border-top-right-radius: 3px;
+}
+
+/* LIBRARIES AND HOURS */
+.buildingimage {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+
+.list-group-item {
+	border: 1px solid #bbb;
+}
+
+.navigation-collapse-text {
+  font-size: medium;
+}
+
+.navigation-collapse-inverse-text {
+  color: white;
+  font-size: medium;
+}
+.h6 {
+  font-weight: 400; /* CHANGED from 500 */
+}
+
+h3,
+.h3 {
+  letter-spacing: 8px; /* NEW CHANGED - added this part and ajusted spacing from 10px to 5px */
+  text-transform: uppercase; /* CHANGED - added this part */
+  color: #1d407b; /*CHANGED to navy blue */
+}
+
+.h3-inverse {
+  color: #FFF;
+  margin-top: 0;
+}
+
+.h4-searchin {
+color: #FFF;
+
+}
+
+.siteheader {
+  letter-spacing: 8px; /* NEW CHANGED - added this part and ajusted spacing from 10px to 5px */
+  text-transform: uppercase; /* CHANGED - added this part */
+  font-size: 20px;
+  color: #FFF;
+  padding-left: 30px;
+}
+
+.dropdown {
+  text-align: left; /* CHANGED added to fix text align */
+  padding-left: 0px; /* NEW CHANGED added to override padding on nav bar */
+  padding-right: 0px; /* NEW CHANGED added to override padding on nav bar */
+}
+
+
+.dropdown-menu {
+  text-align: left; /* CHANGED added to fix text align */
+  padding-left: 0px; /* NEW CHANGED added to override padding on nav bar */
+  padding-right: 0px; /* NEW CHANGED added to override padding on nav bar */
+}
+
+.navbar-default {
+  border-color: #f8f8f8; /*CHANGED from #e7e7e7 to match the background color */
+}
+
+
+/* we'll add this back when the chat hours are operational
+
+#chatbox {
+	padding-top: 10px;
+}
+
+*/
+
+
+/* ORANGE DYNAMIC TABS */
+.navbar-inverse {
+  background-color: #c95f17; /* darker orange */
+
+}
+#orange-bar-div-all a {
+	border-radius: 0px;
+	border-bottom: none;
+}
+
+/*#dynamictabs a, #dynamictabs .panel {
+	border-radius: 0px;
+}
+#orange-bar-div-all li a {
+	border: none;
+}*/
+
+#dynamictabs > div > div.panel {
+	border-radius: 0px;
+}
+
+#orange-bar-div-all li.active a  {
+/*	background-color: #F47F24;  */
+	background-color:#8d3400;
+	border-top:#bbb 1px solid;
+	border-bottom:none;
+	border-left:#bbb 1px solid;
+	border-right:##bbb 1px solid;
+}
+
+
+@media (min-width: 1200px) {
+	.navbar-inverse > #info-tabs-navbar-collapse  > .nav-tabs > li > a  {
+	font-size: 1.3em ;
+	}
+}
+@media (min-width: 992px) and (max-width: 1199px){
+	.navbar-inverse > #info-tabs-navbar-collapse  > .nav-tabs > li > a  {
+	font-size: 1.1em ;
+	}
+}
+@media (min-width: 768px) and 	(max-width: 991px) {
+	.navbar-inverse > #info-tabs-navbar-collapse  > .nav-tabs > li > a  {
+	font-size: .9em ;
+	}
+	.navbar-inverse > #info-tabs-navbar-collapse  > .nav-tabs > li > a{
+	font-size: 1em ;
+	padding: 10px 7px;
+	}
+}
+@media(max-width: 767px) {
+	.navbar-inverse > #info-menu-list  > .nav-tabs > li > a  {
+	font-size: .9em ;
+	}
+}
+#info-tab-list .fa-3x {
+	font-size: 2.4em
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #fff; 
+}
+/*
+.navbar-inverse .navbar-nav > li > a:hover {
+   background-color: #dd6c2a;
+}*/
+
+#orange-bar-div-all a:hover {
+	background-color: #dd6c2a; /* slightly brighter orange */ 
+}
+
+/*#orange-bar-div-all li.active a  {
+	background-color: #c95f17;  
+}*/
+
+#orange-bar-div-all a {
+	font-weight: 500;
+	color: #fff;
+	//font-size: 1.2em ;
+}
+
+.tab_label {
+  display: inline-block;
+  padding-left: 8px;
+  letter-spacing: .05em;
+  text-align:left;
+  line-height: 104%;
+}
+/*
+.navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus  {
+    background-color: #F47F24; 
+    color: #fff;
+}*/
+
+
+/* LIBRARIES AND LOCATIONS */
+
+#libs .list-group-item {
+	padding: 5px 15px;
+}
+
+#libs .list-group-item:hover {
+	background-color: #f5f5f5;
+}
+
+#libs .list-group-item:active {
+	background-color: #f5f5f5;
+}
+
+
+/* DROP DOWN MENUS UNDER EASY SEARCH */
+.navbar-options { /*CHANGED styles for navbar under the search box */
+  border-color: #f8f8f8; /*CHANGED from #e7e7e7 to match the background color */
+  background-color: #CCDFF6; /*CHANGED light blue */
+  border-radius: 0; /* CHANGED to remove border radius in the bootstrap CSS */
+}
+
+.navbar-options .navbar-nav > .open > a,
+.navbar-options .navbar-nav > .open > a:hover,
+.navbar-options .navbar-nav > .open > a:focus {
+  background-color: #9DC2E0; /* CHANGED to darker blue */
+  color: #223760; /* CHANGED to DARK BLUE IN THE SEARCH PANEL */
+ }
+
+.navbar-options .navbar-nav>li>a {
+	color: #223760; /* CHANGED to DARK BLUE IN THE SEARCH PANEL */
+	//-webkit-transition: background-color 300ms ease-out; /* added to create eased highlighting - stylistic, not essential */
+	//-moz-transition: background-color 300ms ease-out;
+	//transition: background-color 300ms ease-out;
+}
+
+.navbar-options .navbar-nav>li>a:hover {
+color: #223760; 
+background-color: #BAD7F4; /*CHANGED to SLIGHTLY DARKER BLUE */
+}
+
+
+
+
+
+#search-panel-body {
+  background-color: #1f3762;
+  padding: 15px;
+}
+
+.blank-panel {
+  border: none;
+}  /* Added to style search panel*/
+
+#search-checkbox-row {
+  color: #fff;
+}
+
+#first-navbar {
+  background-color: #022544;
+  border-bottom: 5px solid #dddddd;
+}
+
+a.searchlinks {
+
+color: #D4E4F3;
+text-decoration: underline;
+
+}
+
+.btn-group.login>.btn, .btn-group-vertical>.btn {
+background-color: #022544;
+color: #FFF; /* CHANGED pale white text */
+}
+
+
+.btn-group.login.open .dropdown-toggle {
+-webkit-box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+background-color: #022544;
+color: white;
+}
+
+hr.orange-line {
+
+  border: 3px solid #ffa466;
+
+} 
+
+.ask-lib-box {
+
+background-color:#1f3762; 
+padding:20px; 
+margin-bottom:20px;
+
+}
+
+a.footer-link {
+
+  color: #333;
+}
+
+.libraryopen { /* LIME GREEN BADGE / BUBBLE / PILLBOX temporary for 08.08.2014 demo to accommodate Tim's code, should change to .badge-green on the dynamic.php page later and remove this style from the stylesheet*/
+  background-color: #ACBE38;
+  text-transform: uppercase;
+}
+
+.badge-green { /* LIME GREEN BADGE / BUBBLE / PILLBOX */
+  background-color: #ACBE38;
+  text-transform: uppercase;
+  color:#000;
+
+}
+
+.badge-red { /* RED BADGE / BUBBLE / PILLBOX */
+  background-color: #c02c2c;
+  text-transform: uppercase;
+}
+
+#mid-footer-col {
+
+  border-left: 1px solid #bbb; 
+  border-right: 1px solid #bbb;
+}
+
+
+
+.tab-content.easysearch-tab {
+    border-left: 1px solid #ddd; /* I don't know what this does, possibly remove in css clean-up */
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+  background-color: #1f3762
+}
+
+#easysearch-tab-list li a {
+	background-color: #dddddd;
+	color: #1f3762;
+}
+
+#easysearch-tab-list li.active a {
+  border-bottom-color: transparent;
+  background-color: #1f3762; 
+  color: #d4e4f3;
+  border:0px;
+}
+
+.nav-tabs.easysearch-tab{
+  margin-bottom: 0px;
+  display: block !important;
+}
+
+.easysearch_tab_font {
+  font-weight:700;
+}
+
+#easysearch-tab-list li>a {
+  border-radius: 0px;
+  border: 0px;
+
+}
+
+/* LIBRARY TECHNOLOGY */
+#uglTechItem li {
+    border-bottom: 1px solid #bbb;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  padding-left: 20px;
+  list-style: none;
+}
+
+#mpalTechItem li {
+    border-bottom: 1px solid #bbb;
+  padding-bottom: 7px;
+  padding-top: 7px;
+  padding-left: 20px;
+  list-style: none;
+}
+
+#softsearch td 
+/* LIBRARY TECHNOLOGY: software search box borders */
+  {
+        border-left: 1px solid #bbb;
+        border-right:1px solid #bbb;
+    }
+
+
+
+/*  NEWS AND EVENTS STYLING */
+#content-list {
+  padding-left: 0px;
+}
+
+#libnewsli.panel-body ul {
+  padding-left: 0px;
+}
+
+/*  EASY SEARCH BOX */
+#search-panel-body {
+  background-color: #1f3762;
+  padding: 15px;
+}
+
+.ie8 #search-panel-body {
+       
+      height: 156.1px;
+      width: 829.3px;
+     }
+
+
+#search-panel-body .row {
+  margin: 0;
+}
+
+#search-panel-body .help-block {
+  color: #CECECE;
+}
+
+.highlight {
+  background-color: #fed9bf;
+}
+
+#alert-div a {
+  color: #d2322d;
+}
+/* today's date in datepicker, selected and default */
+#ui-datepicker-div .ui-datepicker-days-cell-over.ui-datepicker-today .ui-state-highlight{
+  background-color: #FED9BF;
+  background-image: none;
+  border: 1px solid #FFA466;
+}
+/* today's date in datepicker, not selected */
+#ui-datepicker-div .ui-datepicker-today .ui-state-highlight {
+  background-color: #ffffff;
+  background-image: none;
+  border: 1px solid #FFA466;
+}
+/*datepicker header*/
+.ui-datepicker-header {
+  background-color: #DDDDDD;
+  border: 1px solid #BBBBBB;
+  background-image: none;
+}
+/* datepicker days, not selected, not today */
+.ui-datepicker-calendar .ui-state-default {
+  background-color: #f5f5f5;
+  background-image: none;
+}
+/* datepicker selected date, not today */
+.ui-datepicker-calendar .ui-datepicker-current-day .ui-state-active {
+  /*border: 2px solid #FFA466;*/
+  background-color: #FED9BF;
+}

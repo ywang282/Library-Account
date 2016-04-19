@@ -1,0 +1,214 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+        <title>VuFind Account</title>
+        <link rel="stylesheet" href="../assets/built/style.css?v=1455730926432">
+        <link rel="stylesheet" href="http://cdn.jsdelivr.net/fancybox/2.1.5/jquery.fancybox.min.css">
+        <link rel="icon" href="../assets/favicon.png" type="image/png" />
+        <script src="//cdn.jsdelivr.net/g/jquery@2.1"></script>
+        <script>window.jQuery || document.write('<script src="../assets/js/jquery-1.10.2.min.js"><\/script>')</script>
+        <!--[if lt IE 9]>
+        <script src="../assets/js/respond.min.js"></script>
+        <script src="../assets/js/html5shiv.js"></script>
+        <script src="../assets/js/css_browser_selector.js"></script>
+        <![endif]-->
+        <!--[if gte IE 8]>
+        <link href="../assets/css/ie.css" rel="stylesheet" type="text/css" />
+        <![endif]-->
+
+        <link rel="stylesheet" href="../assets/css/homepage_layouts.css" type="text/css" >
+        <link rel="stylesheet" href="../assets/css/homepage_colors_fonts.css" type="text/css" >
+        <link rel="stylesheet" href="../assets/css/columnselect.css" type="text/css" >
+        <link rel="stylesheet" href="./css/vufind_account.css" type="text/css" >
+    </head>
+    <body>
+        <div class = "container" id="spin-container" role="main">
+            <div class="row">
+                <header id="first-navbar" role="banner">
+                    <button id = "x" class = "btn btn-default site-header-control-group pull-right x-btn"><i class="fa fa-times"></i></button>
+                    <button id = "logout" class = "btn btn-default site-header-control-group pull-right logout-btn" > Log Out </button>
+                    <div class="site-header-control-group" id="account_login">VuFind Account</div>
+                    <br>
+                </header>
+            </div>
+            <div class="row">
+                <div class="col-md-12 light-area mobile-col-negative-padding">
+                    <div id="dynamictabs-vufind">
+                        <ul class="accordion-tabs-minimal vufind dynamictabs-vufind" role="tablist">
+
+                            <li class="tab-header-and-content" role="presentation">
+                                <a class="tab-link dynamictabs-vufind dynamic-tab-text arrow-access" id="favs_tab" href="#">
+                                    <span class="fa fa-star-o fa-3x"></span>
+                                    <span class="dynamic-tab-label">
+                                        <span class="text-block">Favorites </span>&nbsp;
+                                    </span>
+                                </a>
+                                <div class="tab-content-bourbon">
+                                    <div class="tab-pane active dynamic-tab-pane" role="tabpanel" aria-label="FAVORITES">
+                                        <div class="dynamic-panel-body">
+                                            <div class="container-fluid">
+                                                <!-- TAB TITLE -->
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-xs-12">
+                                                        <h3 class="dynamictabs-vufind">Favorites</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB TITLE -->
+
+                                                <!-- TAB CONTENT -->
+                                                <div class="row">
+                                                    <div class="col-md-12" id="favs_content">
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB CONTENT -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="tab-header-and-content" role="presentation">
+                                <a class="tab-link dynamictabs-vufind dynamic-tab-text arrow-access" id="checked_tab" href="#">
+                                    <span class="fa fa-check-square-o fa-3x"></span>
+                                    <span class="dynamic-tab-label">
+                                        <span class="text-block">Checked </span>Out
+                                    </span>
+                                </a>
+                                <div class="tab-content-bourbon">
+                                    <div class="tab-pane active dynamic-tab-pane" role="tabpanel" aria-label="CHECKED OUT">
+                                        <div class="dynamic-panel-body">
+                                            <div class="container-fluid">
+                                                <!-- TAB TITLE -->
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-xs-12">
+                                                        <h3 class="dynamictabs-vufind">Checked Out</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB TITLE -->
+
+                                                <!-- TAB CONTENT -->
+                                                <div class="row">
+                                                    <div class="col-md-12" id="checked_content">
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB CONTENT -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="tab-header-and-content" role="presentation">
+                                <a class="tab-link dynamictabs-vufind dynamic-tab-text arrow-access" id="requests_tab" href="#">
+                                    <span class="fa fa-inbox fa-3x"></span>
+                                    <span class="dynamic-tab-label">
+                                        <span class="text-block">Requests </span>&nbsp;
+                                    </span>
+                                </a>
+                                <div class="tab-content-bourbon">
+                                    <div class="tab-pane active dynamic-tab-pane" role="tabpanel" aria-label="REQUESTS">
+                                        <div class="dynamic-panel-body">
+                                            <div class="container-fluid">
+                                                <!-- TAB TITLE -->
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-xs-12">
+                                                        <h3 class="dynamictabs-vufind">Requests</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB TITLE -->
+
+                                                <!-- TAB CONTENT -->
+                                                <div class="row" id="requests_content">
+                                                    <div class="col-md-12">
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB CONTENT -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="tab-header-and-content" role="presentation">
+                                <a class="tab-link dynamictabs-vufind dynamic-tab-text arrow-access" id="fines_tab" href="#">
+                                    <span class="fa fa-usd fa-3x"></span>
+                                    <span class="dynamic-tab-label">
+                                        <span class="text-block">Fines </span>&nbsp;
+                                    </span>
+                                </a>
+                                <div class="tab-content-bourbon">
+                                    <div class="tab-pane active dynamic-tab-pane" role="tabpanel" aria-label="FINES">
+                                        <div class="dynamic-panel-body">
+                                            <div class="container-fluid">
+                                                <!-- TAB TITLE -->
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-xs-12">
+                                                        <h3 class="dynamictabs-vufind">Fines</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB TITLE -->
+
+                                                <!-- TAB CONTENT -->
+                                                <div class="row">
+                                                    <div class="col-md-12" id="fines_content">
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB CONTENT -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+
+                            <li class="tab-header-and-content" role="presentation">
+                                <a class="tab-link dynamictabs-vufind dynamic-tab-text arrow-access" id="blocks_tab" href="#">
+                                    <span class="fa fa-exclamation-triangle fa-3x"></span>
+                                    <span class="dynamic-tab-label">
+                                        <span class="text-block">Blocks </span>&nbsp;
+                                    </span>
+                                </a>
+                                <div class="tab-content-bourbon">
+                                    <div class="tab-pane active dynamic-tab-pane" role="tabpanel" aria-label="BLOCKS">
+                                        <div class="dynamic-panel-body">
+                                            <div class="container-fluid">
+                                                <!-- TAB TITLE -->
+                                                <div class="row">
+                                                    <div class="col-sm-12 col-xs-12">
+                                                        <h3 class="dynamictabs-vufind">Blocks</h3>
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB TITLE -->
+
+                                                <!-- TAB CONTENT -->
+                                                <div class="row">
+                                                    <div class="col-md-12" id="blocks_content">
+                                                    </div>
+                                                </div>
+                                                <!-- END TAB CONTENT -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script type="text/javascript" src="../assets/js/jquery.fracs-0.15.0.min.js"></script>
+        <script type="text/javascript" src="./js/vufind_accordion-tabs.js"></script>
+        <script src="./js/js.cookie.js"></script>
+        <script src="./js/spin.js"></script>
+        <script src="./js/spin_wrapper.js"></script>
+        <script type="text/javascript" src="./js/vufind_account_blocks.js"></script>
+        <script type="text/javascript" src="./js/vufind_account_checked_out.js"></script>
+        <script type="text/javascript" src="./js/vufind_account_favorites.js"></script>
+        <script type="text/javascript" src="./js/vufind_account_fines.js"></script>
+        <script type="text/javascript" src="./js/vufind_account_requests.js"></script>
+        <script type="text/javascript" src="./js/vufind_account.js"></script>
+    </body>
+</html>

@@ -1,0 +1,68 @@
+.site-header-control-group {
+    background-color: #022544;
+    color: #fff;
+    padding: 6px 12px;
+}
+
+.logout-btn {
+    margin-top:6px;
+    margin-right: 6px;
+}
+
+.x-btn {
+    margin-top:6px;
+    margin-right: 12px;
+}
+
+.accordion-tabs-minimal {
+    border: 1px solid #bbb;
+}
+
+a.dynamictabs-vufind {
+    background-color: #ccdff6;
+    border-radius: 0;
+    color: #022544;
+}
+
+a:hover.dynamictabs-vufind {
+    background-color: #e6f9ff;
+    border: 2px solid #fff;
+}
+
+a.is-active.dynamictabs-vufind {
+    background-color: #b3c6dd;
+}
+
+a.dynamictabs-vufind {
+    border: 2px solid transparent;
+    padding: 10px 11px;
+}
+
+.dynamic-tab-label {
+    display: inline-block;
+    font-size: 1.3em;
+    letter-spacing: .05em;
+    line-height: 104%;
+    padding-left: 8px;
+    text-align: left;
+}
+
+@media (max-width: 767px) {
+    a.tab-link.dynamictabs-vufind {
+        border-top: 1px solid #fff;
+    }
+
+    .tab-header-and-content {
+        border-bottom: 1px solid #bbb;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .dynamic-tab-text {
+        font-size: 10px;
+    }
+
+    a.dynamictabs-vufind {
+        padding: 10px 11px;
+    }
+}

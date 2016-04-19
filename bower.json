@@ -1,0 +1,23 @@
+{
+  "name": "library-gateway",
+  "version": "0.0.0",
+  "authors": [
+    "William Weathers <weathrs2>"
+  ],
+  "license": "MIT",
+  "homepage": "library.illinois.edu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "bourbon": "~4.2.3",
+    "neat": "~1.7.2",
+    "normalize.css": "~3.0.3",
+    "fontawesome": "~4.3.0"
+  }
+}

@@ -1,0 +1,1160 @@
+{
+"data": [
+  {
+    "software":"7-Zip 9.2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"ABBYY FineReader 11 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"ABBYY FineReader 11 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Acrobat Pro - Distiller 9.5 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Acrobat Pro 10 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Acrobat Pro 9.5.4 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Adobe Acrobat Pro 9.5.4 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF)"
+  },
+  {
+    "software":"Adobe Acrobat Reader 11 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe After Effects CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Application Manager  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Audition CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Audition CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Bridge CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Bridge CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Content Viewer CS6 for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Adobe Content Viewer CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Digital Editions CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Dreamweaver CS5 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Dreamweaver CS5 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Dreamweaver CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Dreamweaver CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Elements II Organizer CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Encore CS6 for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Adobe Encore CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe ExtendScript Toolkit CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Extension Manager CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Extension Manager CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Illustrator CS5 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Illustrator CS5 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Illustrator CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Illustrator CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe InDesign CS5 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe InDesign CS5 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe InDesign CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe InDesign CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe LiveCycle Designer ES 8.2 for Windows",
+    "location":"Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Media Encoder CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Media Encoder CS6 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Adobe Photoshop CS5 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Photoshop CS5 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Adobe Photoshop CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Photoshop CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Photoshop Elements CS6 for Windows",
+    "location":"Library (Campus-Wide)"
+  },
+  {
+    "software":"Adobe Premiere Elements CS6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Premiere Elements CS6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Premiere Pro CS6 for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Adobe Premiere Pro CS6 for Windows",
+    "location":"Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Reader X for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Adobe Reader X for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Adobe Widget Browser CS6 for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"AgWare  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Amino Cow  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Apple Compressor  for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Apple Motion  for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Apple Screenflow  for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"ArcGIS 10 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Atlas.ti  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Audacity 2.0.3 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Audacity 2.0.3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"AutoCAD 2013/English for Windows",
+    "location":"Grainger"
+  },
+  {
+    "software":"Automator  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Basins 4.1 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"BioEdit 7 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Bluetooth File Transfer  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"BusinessPDF Fonts  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Calculator  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Calculator  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Camtasia 2 7 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Camtasia Studio 8 for Windows",
+    "location":"Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"CDBurnerXP  for Windows",
+    "location":"Library (Campus-Wide)"
+  },
+  {
+    "software":"CutePDF  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Cyberlink DVD 5.7.2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Cytoscape  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"DBMS/Explorer 7.0.4 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Decision Tools  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"DemoHelper  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Derive 5 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"DNR-GPS  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Dolphin EasyReader 6.01 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"DVD Player 5.4 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"EasyReader 4.01 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Eclipse  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Eclipse  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"EndNote  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Entourage  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Epson Scan(ner)  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Epson Scan(ner)  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"eQuest 3.63 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"FaceTime  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Final Cut Pro 4.0.1 for Mac",
+    "location":"Media Commons"
+  },
+  {
+    "software":"FinchTV  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Flip Player  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"FontBook  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"FS Reader  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"GarageBand 5.1 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Geoda  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"GGT  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"GhostView 4.9 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"GIMP 2.8.2 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"GIMP 2.8.2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"GMendel  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Google Chrome 25/28 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Google Chrome 25/28 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Google Earth 7.0.3 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Google Earth 7.0.3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"GPLINK  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Grass 6.4.2 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Handbrake 0.9.9 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Handbrake 0.9.9 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"iBooks Author  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"iChat  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"iDVD 7.1.2 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Image Capture  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"iMovie 8.0.6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"iMovie HD 8.0.6 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Inkscape 0.48 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Inspect 32 4.2.55 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Integrated Farm System Model  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Internet Explorer 9.0.8 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Internet Explorer 9.0.8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"iPhoto 8.1.2 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"iTunes 11 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"iTunes 11 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"IVEO Viewer  for Windows",
+    "location":"Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"iWeb  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"iWork Keynote/Numbers/Pages  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"JAWS Screen Reader 13 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"JoinMap  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Kurzweil 3000 11 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Kurzweil 3000 12 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide)"
+  },
+  {
+    "software":"Living Cookbook  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Magnifier  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"MapDisto  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"MapQTL  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"MapWindows GIS  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Mark 6 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Mathematica 8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Mathematica 9 for Windows",
+    "location":"Grainger"
+  },
+  {
+    "software":"Matlab 2009 (7.8) for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Mega  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Mendeley Desktop  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"MestReNova Lite  for Windows",
+    "location":"Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Microsoft Communicator  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Communicator  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Expressions Encoder Pro  for Windows",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Microsoft Lync 2010 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Messenger  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Access 2010 for Windows",
+    "location":"Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Access 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office Excel 2003 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Microsoft Office Excel 2010/11 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Excel 2010/11 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Excel 2013 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office Excel 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office InfoPath 2010 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office InfoPath 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office OneNote 2010 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Outlook 2010 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Outlook 2010 for Windows",
+    "location":"Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Outlook 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office PowerPoint 2010/11 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office PowerPoint 2010/11 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office PowerPoint 2013 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office PowerPoint 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office Publisher 2010 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Publisher 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office Sharepoint 2010 for Windows",
+    "location":"Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Word 2010/11 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Word 2010/11 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Office Word 2013 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Office Word 2013 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Silverlight  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Microsoft Silverlight  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Microsoft SQL Server 2005/2008 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Microsoft Visual Basic 2010 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Morae Manager/Recorder  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Movie Maker 2011 for Windows",
+    "location":"Media Commons"
+  },
+  {
+    "software":"MovieCaptioner 1.44 for Windows",
+    "location":"Media Commons"
+  },
+  {
+    "software":"Mozilla Firefox 18.02 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Mozilla Firefox 18.02 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Mozilla Thunderbird 17.0.5 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Mozilla Thunderbird 2.0.0.21 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"MPEG Streamclip 1.9.2 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"MySQL Connector ODBC 5.1.9 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"MySQL Front 2.5 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"MySQL Manager 1.0.2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"MySQL Workbench 5.2.37 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Narrator  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"NJStar 2.6 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Nonlinear Regression Analysis  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Notepad  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Grainger"
+  },
+  {
+    "software":"Notepad++ 6.2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Notes  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"NoteTab Light  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"NRC Dairy Cattle Program  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"NVivo 10-SP4 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"NVU 1 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"NX Client 3.5 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"OCLC Connexion 2.4 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"OIV (ArtStor)  for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"OIV (ArtStor)  for Windows",
+    "location":"Library (Campus-Wide), Scholarly Commons"
+  },
+  {
+    "software":"On-Screen Keyboard  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"OpenBook 8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Opera  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"OriginPro 8.5 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"oXygen XML Editor 14 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"oXygen XML Editor 14 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Paint  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"PCDART  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Photobooth  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"Pidgin 2.7 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"PowerPrep II (GRE)  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Praat 5.3.39 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Praat 5.3.39 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Presence  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Preview PDF Viewer  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"PSPP  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"PuTTY 0.62 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"PuTTYGen 0.62 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Python ? for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Python 2.7 for Windows",
+    "location":"ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Python 24 MSI 1.1.4 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Quicktime 10/7.7 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Quicktime 10/7.7 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"R 2.8/3 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"R 2.8/3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"R64 2.15.2 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"RAMAS EcoLab  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"RealPlayer 12 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"RealPlayer Enterprise  for Windows",
+    "location":"Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Refworks Write-N-Cite 3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Remote Desktop Connection  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Remote Desktop Connection  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Macromedia Dreamweaver 8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"RStudio  for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"RStudio  for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Safari 5.1.7 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"SAS 9.3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"SAS Enterprise Guide 4.3 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"SaTScan 9.1.1 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Scratch 2 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"SeaMonkey 2.0.8 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"SeaMonkey 2.0.8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Sim Bio  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"SketchUp 8 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF)"
+  },
+  {
+    "software":"SKQS (Siku Quanshu) Electronic  for Windows",
+    "location":"Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Skype 5.9 for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Skype 5.9 for Windows",
+    "location":"ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"SnagIT 11 for Mac",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"SnagIT 11 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Snipping Tool  for Windows",
+    "location":"Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"SonicFire Pro  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Sound Recorder  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Spartan III  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"SPSS 17 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"SPSS 20 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"SPSS 21 for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Stata 10, 11 for Windows",
+    "location":"ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"STELLA 8.1 for Windows",
+    "location":"ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Stickies  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Sticky Notes  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Structure  for Mac",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Structure  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Tassel  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Terminal 2.1.2 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"TextEdit  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"TeXworks 0.4.3 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"Time Machine  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, Scholarly Commons"
+  },
+  {
+    "software":"Translation Studio 2011 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"UAAR  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Vensim DSS  for Windows",
+    "location":"ACES (ACF)"
+  },
+  {
+    "software":"Visio 2007 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"VLC Media Player 2.0.7 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"VLC Media Player 2.0.7 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"VoiceOver  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"WebDrive 7.1 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Windows DVD Maker  for Windows",
+    "location":"Library (Campus-Wide)"
+  },
+  {
+    "software":"Windows Media Player  for Windows",
+    "location":"Library (Campus-Wide), ACES (ACF), Scholarly Commons"
+  },
+  {
+    "software":"Windows Speech Recognition  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"WinRats 32 5.02 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"WinSCP 5.1.4 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"WordPad  for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger, Scholarly Commons"
+  },
+  {
+    "software":"Xcode  for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Xming 6.9 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"XPS Document Viewer  for Windows",
+    "location":"Library (Campus-Wide), Grainger"
+  },
+  {
+    "software":"Xquartz 2.7.4 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"Xshell/Xftp 4 for Windows",
+    "location":"Scholarly Commons"
+  },
+  {
+    "software":"ZOOM HandyShare 3 for Mac",
+    "location":"CITES (Campus-Wide), Media Commons"
+  },
+  {
+    "software":"ZoomText Magnifier/Reader 10 for Windows",
+    "location":"CITES (Campus-Wide), Media Commons, Library (Campus-Wide), Grainger"
+  }
+]
+}

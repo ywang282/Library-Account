@@ -1,0 +1,45 @@
+.library-desc-line {
+	display:block;
+}
+
+.show-day .hourshide{
+	display: none;	
+}
+
+.show-day h4, .show-day .hours-table {
+	display:inline;
+}
+
+.show-day table {
+		display:inline-block;
+		vertical-align:top;
+}
+
+#hours-page-search-panel {
+	background-color: #eee;
+}
+
+#hours-page-print-button {
+	font-size:1.5em;
+}
+
+@media print {
+	header, #hours-page-search-panel,footer{
+		display: none;
+	}
+
+	h4 {
+		font-size:1em;
+		font-weight: bold;
+	}
+
+	hr {
+		margin:5px 0px;
+	}
+}
+
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
