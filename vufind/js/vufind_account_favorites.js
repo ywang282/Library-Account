@@ -1,6 +1,8 @@
 var FAVORITES = {
-    LIST:  window.location.origin + '/api/connstart/favorites/list',
-    DELETE:  window.location.origin + '/api/connstart/favorites/delete'
+    //LIST:  window.location.origin + '/api/connstart/favorites/list',
+    //DELETE:  window.location.origin + '/api/connstart/favorites/delete'
+      LIST:'http://gateway-dev.library.illinois.edu/api/connstart/favorites/list',
+    DELETE:'http://gateway-dev.library.illinois.edu/api/connstart/favorites/delete',
 };
 
 /**

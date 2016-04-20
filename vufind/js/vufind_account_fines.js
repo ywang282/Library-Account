@@ -1,5 +1,6 @@
 var FINES = {
-    LIST:  window.location.origin + '/api/connstart/fines/list'
+    //LIST:  window.location.origin + '/api/connstart/fines/list'
+     LIST:'http://gateway-dev.library.illinois.edu/api/connstart/fines/list'
 };
 
 /**

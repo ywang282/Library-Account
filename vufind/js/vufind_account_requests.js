@@ -1,5 +1,6 @@
 var REQUESTS = {
-    LIST: window.location.origin + '/api/connstart/requests/list'
+    //LIST: window.location.origin + '/api/connstart/requests/list'
+    LIST:'http://gateway-dev.library.illinois.edu/api/connstart/requests/list'
 };
 
 /**

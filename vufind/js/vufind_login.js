@@ -1,5 +1,6 @@
 var CONN = {
-    LOGIN:  window.location.origin + '/api/connstart/login'
+    //LOGIN:  window.location.origin + '/api/connstart/login'
+    LOGIN:'http://gateway-dev.library.illinois.edu/api/connstart/login'
 };
 
 $(document).ready(function() {

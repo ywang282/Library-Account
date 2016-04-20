@@ -1,6 +1,8 @@
 var CHECKED_OUT = {
-    LIST:  window.location.origin + '/api/connstart/checked_out/list',
-    RENEW:  window.location.origin + '/api/connstart/checked_out/list'
+    //LIST:  window.location.origin + '/api/connstart/checked_out/list',
+    //RENEW:  window.location.origin + '/api/connstart/checked_out/list'
+    LIST:'http://gateway-dev.library.illinois.edu/api/connstart/checked_out/list',
+    RENEW:'http://gateway-dev.library.illinois.edu/api/connstart/checked_out/list',
 };
 
 

@@ -1,5 +1,6 @@
 var BLOCKS = {
-    LIST:  window.location.origin + '/api/connstart/blocks/list'
+    //LIST:  window.location.origin + '/api/connstart/blocks/list'
+    LIST:'http://gateway-dev.library.illinois.edu/api/connstart/blocks/list'
 };
 
 /**
