@@ -28,7 +28,8 @@ $(document).ready(function() {
             getCheckedOutItems(vufindToken),
             getFavorites(vufindToken),
             getFines(vufindToken),
-            getRequests(vufindToken)
+            getRequests(vufindToken),
+            getRecommendedItems(vufindToken)
         ).done(function() {
             console.log("Finished!")
             $.spin('false');

@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ea403ef2-0c82-4874-8142-eb5ee7fc10e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vufind/js/vufind_account_recommend.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vufind/js/vufind_account.js" afterPath="$PROJECT_DIR$/vufind/js/vufind_account.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/vufind/vufind_account.html" afterPath="$PROJECT_DIR$/vufind/vufind_account.html" />
     </list>
     <ignored path="libraryAccount.iws" />
@@ -24,10 +27,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="vufind_login.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="vufind_login.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/vufind/vufind_login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
+            <state vertical-scroll-proportion="-0.10557769">
               <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
               <folding />
             </state>
@@ -37,8 +40,8 @@
       <file leaf-file-name="vufind_account.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vufind/vufind_account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="19.0">
-              <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
+            <state vertical-scroll-proportion="-17.791666">
+              <caret line="245" column="7" selection-start-line="245" selection-start-column="7" selection-end-line="245" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -47,18 +50,18 @@
       <file leaf-file-name="vufind_account.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="-12.931034">
+              <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vufind_account_checked_out.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="vufind_account_checked_out.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_checked_out.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5418251">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
               <folding>
                 <marker date="1461186420000" expanded="true" signature="1764:1789" placeholder="..." />
                 <marker date="1461186420000" expanded="true" signature="1806:1817" placeholder="..." />
@@ -70,7 +73,63 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="vufind_account_recommend.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_recommend.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+              <folding>
+                <marker date="1461188918000" expanded="true" signature="1469:1494" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="1511:1522" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="1551:1563" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="1592:1604" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="4111:4136" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="4153:4164" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="4193:4205" placeholder="..." />
+                <marker date="1461188918000" expanded="true" signature="4234:4246" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vufind_account_blocks.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_blocks.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="8.75862">
+              <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+              <folding>
+                <marker date="1461186430000" expanded="true" signature="1420:1445" placeholder="..." />
+                <marker date="1461186430000" expanded="true" signature="1462:1473" placeholder="..." />
+                <marker date="1461186430000" expanded="true" signature="1508:1520" placeholder="..." />
+                <marker date="1461186430000" expanded="true" signature="1548:1560" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vufind_account_favorites.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_favorites.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+              <folding>
+                <marker date="1461186409000" expanded="true" signature="1831:1856" placeholder="..." />
+                <marker date="1461186409000" expanded="true" signature="1873:1885" placeholder="..." />
+                <marker date="1461186409000" expanded="true" signature="1914:1926" placeholder="..." />
+                <marker date="1461186409000" expanded="true" signature="1956:1968" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -90,7 +149,9 @@
         <option value="$PROJECT_DIR$/vufind/js/vufind_account_favorites.js" />
         <option value="$PROJECT_DIR$/vufind/js/vufind_account_checked_out.js" />
         <option value="$PROJECT_DIR$/vufind/js/vufind_account_blocks.js" />
+        <option value="$PROJECT_DIR$/vufind/js/vufind_account.js" />
         <option value="$PROJECT_DIR$/vufind/vufind_account.html" />
+        <option value="$PROJECT_DIR$/vufind/js/vufind_account_recommend.js" />
       </list>
     </option>
   </component>
@@ -646,15 +707,15 @@
       <workItem from="1461081558325" duration="292000" />
       <workItem from="1461181582752" duration="608000" />
       <workItem from="1461186287780" duration="189000" />
-      <workItem from="1461186808991" duration="769000" />
+      <workItem from="1461186808991" duration="1890000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1858000" />
+    <option name="totallyTimeSpent" value="2979000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="626" extended-state="1" />
+    <frame x="0" y="22" width="1280" height="626" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -663,6 +724,7 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29453126" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -671,14 +733,13 @@
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -757,32 +818,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_favorites.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11363637">
-          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
-          <folding>
-            <marker date="1461186409000" expanded="true" signature="1831:1856" placeholder="..." />
-            <marker date="1461186409000" expanded="true" signature="1873:1885" placeholder="..." />
-            <marker date="1461186409000" expanded="true" signature="1914:1926" placeholder="..." />
-            <marker date="1461186409000" expanded="true" signature="1956:1968" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_blocks.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056818184">
-          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
-          <folding>
-            <marker date="1461186430000" expanded="true" signature="1420:1445" placeholder="..." />
-            <marker date="1461186430000" expanded="true" signature="1462:1473" placeholder="..." />
-            <marker date="1461186430000" expanded="true" signature="1508:1520" placeholder="..." />
-            <marker date="1461186430000" expanded="true" signature="1548:1560" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vufind/js/vufind_accordion-tabs.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -798,34 +833,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vufind/vufind_login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vufind/vufind_account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="19.0">
-          <caret line="85" column="80" selection-start-line="85" selection-start-column="80" selection-end-line="85" selection-end-column="80" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account.js">
+    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_favorites.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <caret line="4" column="84" selection-start-line="4" selection-start-column="84" selection-end-line="4" selection-end-column="84" />
+          <folding>
+            <marker date="1461186409000" expanded="true" signature="1831:1856" placeholder="..." />
+            <marker date="1461186409000" expanded="true" signature="1873:1885" placeholder="..." />
+            <marker date="1461186409000" expanded="true" signature="1914:1926" placeholder="..." />
+            <marker date="1461186409000" expanded="true" signature="1956:1968" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_blocks.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.75862">
+          <caret line="2" column="76" selection-start-line="2" selection-start-column="76" selection-end-line="2" selection-end-column="76" />
+          <folding>
+            <marker date="1461186430000" expanded="true" signature="1420:1445" placeholder="..." />
+            <marker date="1461186430000" expanded="true" signature="1462:1473" placeholder="..." />
+            <marker date="1461186430000" expanded="true" signature="1508:1520" placeholder="..." />
+            <marker date="1461186430000" expanded="true" signature="1548:1560" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_checked_out.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5418251">
-          <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="23" selection-end-column="1" />
           <folding>
             <marker date="1461186420000" expanded="true" signature="1764:1789" placeholder="..." />
             <marker date="1461186420000" expanded="true" signature="1806:1817" placeholder="..." />
@@ -833,6 +870,47 @@
             <marker date="1461186420000" expanded="true" signature="1888:1900" placeholder="..." />
             <marker date="1461186420000" expanded="true" signature="1932:1944" placeholder="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vufind/vufind_account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.791666">
+          <caret line="245" column="7" selection-start-line="245" selection-start-column="7" selection-end-line="245" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.931034">
+          <caret line="31" column="43" selection-start-line="31" selection-start-column="43" selection-end-line="31" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vufind/js/vufind_account_recommend.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
+          <folding>
+            <marker date="1461188918000" expanded="true" signature="1469:1494" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="1511:1522" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="1551:1563" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="1592:1604" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="4111:4136" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="4153:4164" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="4193:4205" placeholder="..." />
+            <marker date="1461188918000" expanded="true" signature="4234:4246" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vufind/vufind_login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.10557769">
+          <caret line="10" column="72" selection-start-line="10" selection-start-column="72" selection-end-line="10" selection-end-column="72" />
+          <folding />
         </state>
       </provider>
     </entry>
