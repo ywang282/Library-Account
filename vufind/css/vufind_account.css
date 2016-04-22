@@ -35,17 +35,17 @@ a.is-active.dynamictabs-vufind {
 
 a.dynamictabs-vufind {
     border: 2px solid transparent;
-    padding: 10px 11px;
+    padding: 5px 11px;
 }
 
 .dynamic-tab-label {
-    display: inline-block;
-    font-size: 1.3em;
-    letter-spacing: .05em;
-    line-height: 104%;
-    padding-left: 8px;
-    text-align: left;
-}
+     display: inline-block;
+     font-size: 0.89em;
+     letter-spacing: .05em;
+     line-height: 104%;
+     padding-left: 8px;
+     text-align: left;
+ }
 
 @media (max-width: 767px) {
     a.tab-link.dynamictabs-vufind {
