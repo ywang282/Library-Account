@@ -16,21 +16,22 @@ function addRecommendedItem(recommended_item) {
     var bookInfoHTMLLeft = "<div class=\"book-info\">";
     var bookInfoHTMLRight = "</div>";
 
-    var titleHTMl = "<h4>" + recommended_item.title + "</h4>";
-    var authorHTML = "<h5>" + recommended_item.author + "</h5>";
-    var showMoreButton = "<p class=\"button\">SHOW MORE LIKE THIS</p>";
     if (recommended_item.title.length === 0){
-        titleHTMl = "<p>title information not available.</p>";
+        recommended_item.title = "title information not available.";
     }
     if (recommended_item.author.length === 0){
-        authorHTML = "<p>author information not available.</p>";
+        recommended_item.author = "author information not available.";
     }
 
-    row.insertCell(1).innerHTML = bookInfoHTMLLeft + titleHTMl + authorHTML + "<br>" + showMoreButton + bookInfoHTMLRight;
+    var titleHTMl = "<h4 class=\"title\">" + recommended_item.title + "</h4>";
+    var authorHTML = "<h5 class=\"author\">" + recommended_item.author + "</h5>";
+    var showMoreButton = "<p class=\"button\">SHOW MORE LIKE THIS</p>";
+
+    row.insertCell(1).innerHTML = bookInfoHTMLLeft + titleHTMl + authorHTML + showMoreButton + bookInfoHTMLRight;
 
 
     // add the td for request item icon button
-    row.insertCell(2).innerHTML = "<div><div class=\"request-icon\"><i class=\"fa fa-3x fa-inbox\" aria-hidden=\"true\"></i></div><p id=\"request-text\">Requested Item</p></div>";
+    row.insertCell(2).innerHTML = "<div class=\"request-container\"><div class=\"request-icon\"><i class=\"fa fa-3x fa-inbox\" aria-hidden=\"true\"></i></div><p id=\"request-text\">Requested Item</p></div>";
 
 }
 
@@ -51,7 +52,7 @@ function getRecommendedItems(vufindToken) {
                 // DEBUG
                 // var recommendedItemTopic = blahblah;
                  var recommendedItemTopic = "DEBUG";
-                var subTitle = "<h4> Items like " + recommendedItemTopic + "</h4>";
+                var subTitle = "<h4 style = \"text-align: center\"> Items like " + recommendedItemTopic + "</h4>";
                 var tableHTML = "<table id=\"recommneded_table\" class = \"clearfix:after\" border=\"1\">" +
                                     "<tr id=\"table-header\" style = \"background-color: #EDEDED\">" +
                                         "<td style = \"width:200px\"></td>" +

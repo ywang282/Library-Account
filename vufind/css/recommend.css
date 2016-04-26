@@ -7,18 +7,22 @@
     height: 100%;
     background-repeat: no-repeat;
     background-size: cover;
+    min-width: 40px;
+}
+
+.book-info{
+    margin-left: 20px;
+    margin-right: 10px;
 }
 
 
 .button{
     background-color: rgb(44, 74, 140);
-    /*background-color: #082644;*/
 }
 
-.request-icon{
-     width: 30%;
-     margin: auto;
-     position: relative;
+.request-container{
+    margin-right: 15px;
+    margin-left: 15px;
 }
 
 .request-icon:hover, .image-frame img:hover, .book-info:hover{
@@ -40,3 +44,90 @@ td:nth-child(2){
    border-left-style:hidden;
 }
 
+@media (max-width: 460px) {
+    .button{
+        margin-bottom: 10px;
+        padding-bottom: 3px;
+        padding-top: 3px;
+        height: 15px;
+        font-size: 6px;
+        width: 90px;
+    }
+    .request-icon{
+         width: 50%;
+         margin: auto;
+         position: relative;
+    }
+    .title{
+        font-size: 8px;
+    }
+    .author{
+        font-size: 6px;
+    }
+    #request-text{
+       font-size: 7px;
+    }
+    .request-icon{
+         width: 35%;
+         margin: auto;
+         position: relative;
+    }
+    .request-icon i{
+        font-size: 18px;
+    }
+}
+
+@media (min-width: 460px) and (max-width: 767px) {
+    .button{
+        margin-bottom: 10px;
+        height: 20px;
+        font-size: 6px;
+        width: 100px;
+    }
+    .title{
+        font-size: 12px;
+    }
+    .author{
+        font-size: 10px;
+    }
+    #request-text{
+       font-size: 10px;
+    }
+    .request-icon{
+         width: 38%;
+         margin: auto;
+         position: relative;
+    }
+    .request-icon i{
+        font-size: 30px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .button{
+        margin-bottom: 15px;
+    }
+    .request-icon i{
+        font-size: 30px;
+    }
+    .request-icon{
+         width: 50%;
+         margin: auto;
+         position: relative;
+    }
+    .request-icon i{
+        font-size: 45px;
+    }
+}
+
+@media (min-width: 991px) {
+    .button{
+        margin-bottom: 20px;
+        margin-top: 30px;
+    }
+    .request-icon{
+         width: 40%;
+         margin: auto;
+         position: relative;
+    }
+}
