@@ -15,7 +15,7 @@ $(document).ready(function() {
     }
 
     // close
-    $("#x").on("click", function(){
+    $("#x").on("click", function(event){
         event.preventDefault();
         console.log("login window closed");
         window.parent.disablePopup();
